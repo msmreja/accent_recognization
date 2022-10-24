@@ -1,1 +1,3 @@
-///
+To Dowmload the Training data use the given link
+
+link = "https://www.mediafire.com/file/sc84h13fcq53mwu/train.rar/file"
